@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  youtube:
+    image: lataayoutube2
+    container_name: youtube
+    volumes:
+      - C:/youtubelataukset:/ladatut
+    stdin_open: true
+    tty: true
