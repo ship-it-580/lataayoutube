@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   youtube:
-    image: lataayoutube2
+    image: lataayoutube
     container_name: youtube
     volumes:
       - C:/youtubelataukset:/ladatut
