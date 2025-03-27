@@ -29,3 +29,6 @@ ENTRYPOINT ["bash", "-c", "while true; do echo 'Anna videon URL:'; read website;
 #avaa kontti näin:
 #docker-compose run --rm youtube
 #suljekontti "CTRL + C" silloin kun kontti ei kysy videota URL
+
+
+# ship-it-580
