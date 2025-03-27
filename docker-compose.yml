@@ -2,8 +2,8 @@ version: '3.8'
 
 services:
   youtube:
-    image: hyva_youtube-lataaja
-    container_name: youtubelataaja
+    image: lataayoutube
+    container_name: youtube
     volumes:
       - C:/youtubelataukset:/ladatut
     stdin_open: true
